@@ -28,7 +28,7 @@ Here's the word cloud from scraping the NYT homepage on April 11, 2025.
 
 ## Acknowledgements
 
-This project is based on the notebooks provided by Michele Samorani Associate Professor, Information Systems & Analytics
+This project is based on the notebooks provided by Michele Samorani, Associate Professor, Information Systems & Analytics
 the Leavey School of Business at Santa Clara University. Professor Samorani's guidance in our NLP class made this project 
 possible, allowing me to apply and extend the concepts covered in the course to build this word cloud.
 
