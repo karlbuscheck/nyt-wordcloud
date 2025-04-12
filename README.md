@@ -12,6 +12,10 @@ and generates a word cloud to reflect what’s trending in global headlines.
 The project showcases fundamentals of **Natural Language Processing (NLP)**, including tokenization, stop 
 word removal, lemmatization, and frequency visualization — all in Python.
 
+## Sample Word Cloud
+Here's the word cloud from scraping the NYT homepage on April 11, 2025.
+![NYT Word Cloud](nyt_wordcloud.png)
+
 ## Tools & Libraries Used
 - **Jupyter Notebook** — for writing and running Python code interactively
 - **Python 3.12.2**
