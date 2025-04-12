@@ -6,7 +6,7 @@ All the news that's fit to code.
 
 ## Project Overview
 
-This notebook scrapes the [nytimes.com](https://www.nytimes.com), tokenizes and cleans the text, 
+This notebook scrapes the [nytimes.com](https://www.nytimes.com) homepage, tokenizes and cleans the text, 
 and generates a word cloud to reflect what’s trending in global headlines.
 
 The project showcases fundamentals of **Natural Language Processing (NLP)**, including tokenization, stop 
