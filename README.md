@@ -14,6 +14,7 @@ word removal, lemmatization, and frequency visualization — all in Python.
 
 ## Sample Word Cloud
 Here's the word cloud from scraping the NYT homepage on April 11, 2025.
+
 ![NYT Word Cloud](nyt_wordcloud.png)
 
 ## Tools & Libraries Used
