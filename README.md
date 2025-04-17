@@ -20,7 +20,7 @@ Here's the word cloud from scraping the NYT homepage on April 11, 2025.
 ## Tools & Libraries Used
 - **Jupyter Notebook** — for writing and running Python code interactively
 - **Python 3.12.2**
-- **nltk** - NLP preprocessing (toeknize, stopwors, lemmatize)
+- **nltk** - NLP preprocessing (tokenize, stopwords, lemmatize)
 - **gensim** - Text tokenization
 - **Beautifulsoup** - Web scraping
 - **wordcloud** - Word frequency rendering
@@ -29,9 +29,8 @@ Here's the word cloud from scraping the NYT homepage on April 11, 2025.
 ## Acknowledgements
 
 This project is based on the notebooks provided by Michele Samorani, Associate Professor in the Department 
-of Information Systems and Analytics at the Leavey School of Business at Santa Clara University. Professor 
-Samorani's guidance in our NLP class made this project possible, allowing me to apply and extend the concepts
-covered in the course to build this word cloud.
+of Information Systems and Analytics at the Leavey School of Business at Santa Clara University. My work in Professor 
+Samorani's class is what inspired my idea to visualize the world in words.
 
 ## Note
 This notebook is a work in progress. The only way to code is to practice. Stay tuned for more.
